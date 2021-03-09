@@ -1,7 +1,35 @@
-h1 {
+.first_heading {
   font-family: Verdana;
   font-weight: normal;
   font-size: 50px;
   color: #fff;
   text-align: center;
+}
+
+p {
+  color: Aquamarine;
+  font-size: 16px;
+}
+
+.second_heading {
+  font-family: Verdana;
+  font-weight: 300;
+    font-size: 42px;
+}
+
+.galaxy p {
+  font-family: Verdana;
+  font-size: 21px;
+  color: gray;
+}
+
+.d_video {
+  background-color: black;
+  text-align: center;
+}
+
+
+.fter {
+  text-align: right;
+  color: gray;
 }
