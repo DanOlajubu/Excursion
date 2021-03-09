@@ -9,11 +9,10 @@ body {
   font-weight: normal;
   font-size: 50px;
   color: #ffffff;
-  text-align: center;
 }
 
-p {
-  color: Aquamarine;
+.link_cta {
+  color: aquamarine;
   font-size: 16px;
 }
 
