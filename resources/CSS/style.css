@@ -4,28 +4,28 @@ body {
   font-family: Verdana,Geneva,sans-serif;
 }
 
-
+/*HEADINGS*/
 .first_heading {
   font-weight: normal;
   font-size: 50px;
   color: #ffffff;
 }
 
+.second_heading {
+  font-weight: 300;
+    font-size: 42px;
+    color: #ffffff;
+}
+
+.sub_header {
+  font-size: 21px;
+  color: gray;
+}
+
+/*LINKS*/
 .link_cta {
   color: aquamarine;
   font-size: 16px;
-}
-
-.second_heading {
-  font-family: Verdana;
-  font-weight: 300;
-    font-size: 42px;
-}
-
-.galaxy p {
-  font-family: Verdana;
-  font-size: 21px;
-  color: gray;
 }
 
 .d_video {
